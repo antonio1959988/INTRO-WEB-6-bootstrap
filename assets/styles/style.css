@@ -1,0 +1,11 @@
+/*Estilos del Blog DienteFeliz*/
+
+body{
+    text-align: center;
+    background-color: rgba(194, 255, 255, 0.932);
+}
+
+#info{
+    background-color: rgba(245, 245, 245, 0.719);
+    border: 3px solid black;
+}
